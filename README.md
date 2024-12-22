@@ -12,6 +12,8 @@ For example : ./c-wire.sh file.csv station consumer
 
 If you need help type : ./c-wire.sh h
 
+Since I did not put the csv files in the repositorym you should add it.
+
 The output will be on the data.csv folder
 
 
